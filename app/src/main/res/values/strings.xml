@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">МемоФлоу</string>
+    <string name="subtitle_spaced_repetition">Интервальное повторение SM-2</string>
+    <string name="tab_decks">Колоды</string>
+    <string name="tab_analytics">Аналитика</string>
+    <string name="tab_settings">Напоминания</string>
+    <string name="action_create_deck">Новая колода</string>
+    <string name="action_import_anki">Импорт Anki TXT</string>
+    <string name="action_add_card">Добавить карточку</string>
+    <string name="action_study_now">Учить</string>
+    <string name="label_new_cards">Новые</string>
+    <string name="label_due_today">На сегодня</string>
+    <string name="label_total_cards">Всего</string>
+    <string name="rate_again">Снова</string>
+    <string name="rate_hard">Трудно</string>
+    <string name="rate_good">Хорошо</string>
+    <string name="rate_easy">Легко</string>
+    <string name="session_complete_title">Сессия завершена!</string>
+    <string name="session_complete_subtitle">Отличная работа! Все карточки на сегодня повторены.</string>
+    <string name="notification_channel_name">Ежедневные напоминания МемоФлоу</string>
+    <string name="notification_channel_desc">Автоматические уведомления о карточках, готовых к интервальному повторению</string>
+    <string name="notification_title">Пора повторить карточки!</string>
+</resources>

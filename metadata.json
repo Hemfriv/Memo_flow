@@ -1,0 +1,6 @@
+{
+  "name": "МемоФлоу",
+  "description": "Автономное приложение для интервального повторения карточек по алгоритму SM-2 с импортом Anki TXT и 3D-анимацией",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
